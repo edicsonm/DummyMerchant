@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+    <context-root>/</context-root>
+    <virtual-host>edimoto-host</virtual-host>
+    <server-instance>default-server</server-instance>
+</jboss-web>

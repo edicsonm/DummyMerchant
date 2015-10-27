@@ -1,0 +1,4 @@
+au/com/dummyMerchant/model/User.class
+au/com/dummyMerchant/controller/PrincipalController.class
+au/com/dummyMerchant/model/Customer.class
+au/com/dummyMerchant/model/Payment.class

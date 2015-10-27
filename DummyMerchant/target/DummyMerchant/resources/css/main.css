@@ -1,0 +1,147 @@
+@CHARSET "UTF-8";
+
+.title-section {
+	color: #bbb;
+    font-size: 12px;
+    font-weight: bold;
+    left: 15px;
+    letter-spacing: 1px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 15px;
+}
+
+.floatRight {
+	float: right;
+	margin-right: 18px;
+	margin-bottom: 20px;
+}
+
+.has-error {
+	/* color: red; */
+	color: #c7254e;
+}
+
+.error {
+	color: #c7254e;
+	background-color: #f9f2f4;
+	border-radius: 3px;
+}
+
+.jumbotron {
+  margin-top: 25px;
+}
+
+.navbar-default {
+    background-color: #ff6400;
+    border-color: #e7e7e7;
+}
+
+/* 
+body, #mainWrapper {
+	height: 100%;
+	background-color: rgb(245, 245, 245);
+}
+
+body, .form-control {
+	font-size: 11px !important;
+}
+
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+}
+
+
+
+
+
+.generic-container {
+	position: fixed;
+	width: 80%;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #EAE7E7;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	box-shadow: 0 0 30px black;
+}
+
+.custom-width {
+	width: 80px !important;
+}
+
+.containerForm {
+	margin: 20px;
+}
+
+label {
+	margin-bottom: 0;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.bs-example {
+    background-color: #fff;
+    border-color: #ddd;
+    border-radius: 4px 4px 0 0;
+    border-width: 1px;
+    box-shadow: none;
+    margin-left: 0;
+    margin-right: 0;
+    border-style: solid;
+    padding: 45px 15px 15px;
+    position: relative;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+*::after, *::before {
+    box-sizing: border-box;
+}
+
+*::after, *::before {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1171px;
+}
+
+.title-section {
+	color: #bbb;
+    font-size: 12px;
+    font-weight: bold;
+    left: 15px;
+    letter-spacing: 1px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 15px;
+}
+
+.help-block {
+    color: #737373;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.bs-sidenav {
+    background-color: #f7f5fa;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-shadow: 0 1px 0 #fff;
+}
+ */
